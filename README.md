@@ -6,6 +6,12 @@ This is a simple API sample in Node.js with express.js based on [Google Cloud Ru
 
 Server should run automatically when starting a workspace. To run manually, run:
 
+First install all the dependencies
+
+```sh
+npm i
+```
+
 ```sh
 npm run dev
 ```
